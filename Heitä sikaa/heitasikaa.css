@@ -1,0 +1,111 @@
+body{
+	font-size: 20px;
+	font-family: 'Work Sans', sans-serif;
+	color: #333;
+  font-weight: 300;
+  text-align: center;
+  background-color: #faebd7;
+}
+h1{
+  font-weight: 300;
+  margin: 0px;
+  padding: 50px;
+  font-size: 40px;
+  background-color: #006400;
+  color: #fff;
+}
+#pelitekstit {
+	height: 80px;
+}
+#pelialue {
+	min-height: 500px;
+	min-width: auto;
+}
+#vasenlauta {
+	margin-top: 50px;
+}
+#oikealauta {
+	margin-top: 50px;
+}
+#voittoteksti {
+	margin-top: 50px;
+}
+#numero {
+	color: black;
+}
+#margin20 {
+	margin-top: 20px;
+}
+.card {
+	min-height: 100px;
+	min-width: 100px;
+}
+table {
+	background-color: white;
+}
+@media (max-width: 1000px) {
+  .hidden-sm {
+    display: none !important;
+  }
+}
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+#arpabutton {
+	margin: 25px;
+}
+#aloita_uusi {
+	margin: 25px;
+}
+#rules {
+	margin: 25px;
+}
+.modal-body {
+	text-align: left;
+}
+button:hover {
+	background-color: #999;
+	color: #fff;
+}
+.paraspossu {
+	background-image: url(paraspossu.png);
+	max-width: 100%;
+  max-height: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.kuonopossu {
+	background-image: url(kuonopossu.png);
+	max-width: 100%;
+  max-height: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.selallaapossu {
+	background-image: url(selallaapossu.png);
+	max-width: 100%;
+  max-height: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.seisovapossu {
+	background-image: url(seisovapossu.png);
+	max-width: 100%;
+  max-height: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.makaavapossu {
+	background-image: url(makaavapossu.png);
+	max-width: 100%;
+  max-height: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
